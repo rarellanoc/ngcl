@@ -1,0 +1,70 @@
+<tr>
+<td>8/16/2018 15:01:26</td>
+<td>Segunda Concesión Ruta 66</td>
+<td>carretera</td>
+<td>446624</td>
+<td>economiaynegocios.cl</td>
+</tr>
+<tr>
+<td>8/16/2018 15:02:15</td>
+<td>Ruta 5 Tramo Los Vilos-La Serena </td>
+<td>carretera</td>
+<td>363446</td>
+<td>economiaynegocios.cl</td>
+</tr>
+<tr>
+<td>8/16/2018 15:03:08</td>
+<td>Ruta G21, de acceso a Farellones </td>
+<td>carretera</td>
+<td>64605</td>
+<td>economiaynegocios.cl</td>
+</tr>
+<tr>
+<td>8/16/2018 15:04:08</td>
+<td>Embalse Catemu</td>
+<td>obra</td>
+<td>311000</td>
+<td>economiaynegocios.cl</td>
+</tr>
+<tr>
+<td>8/16/2018 15:08:34</td>
+<td>380 Dptos en penco, Inmobiliaria Fuentes de Piedra</td>
+<td>arquitectura</td>
+<td>10556</td>
+<td>diarioconcepcion.cl</td>
+</tr>
+<tr>
+<td>8/16/2018 15:11:39</td>
+<td>Terreno 6.700 m2 Lira con Santa Isabel</td>
+<td>arquitectura</td>
+<td>20043</td>
+<td>diarioeldia.cl</td>
+</tr>
+<tr>
+<td>8/16/2018 15:17:20</td>
+<td>Derechos de agua, lps Antofagasta</td>
+<td>agua</td>
+<td>68</td>
+<td>compragua.cl</td>
+</tr>
+<tr>
+<td>8/16/2018 15:21:31</td>
+<td>Implementación Ley uber (1 año)</td>
+<td>software</td>
+<td>448</td>
+<td>cooperativa.cl</td>
+</tr>
+<tr>
+<td>8/17/2018 8:16:23</td>
+<td>784.531m2 banco de terrenos parque arauco</td>
+<td>arquitectura</td>
+<td>97826</td>
+<td>latercera.cl</td>
+</tr>
+<tr>
+<td>8/17/2018 8:21:42</td>
+<td>Central de Respaldo Llanos Blancos 150MW</td>
+<td>electricidad</td>
+<td>46584</td>
+<td>radioagricultura.cl</td>
+</tr>
