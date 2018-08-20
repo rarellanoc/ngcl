@@ -1,0 +1,42 @@
+<tr>
+<td>8/18/2018 9:20:47</td>
+<td>Edificio corporativo en Isidora Goyenechea 3250</td>
+<td>arquitectura</td>
+<td>44190</td>
+<td>economiaynegocios.cl</td>
+</tr>
+<tr>
+<td>8/18/2018 9:21:52</td>
+<td>Edificio de 15 pisos Costanera Puente Suecia</td>
+<td>arquitectura</td>
+<td>19417</td>
+<td>economiaynegocios.cl</td>
+</tr>
+<tr>
+<td>8/18/2018 9:24:26</td>
+<td>Planta de alimentos Agrosuper en La Estrella</td>
+<td>alimentos</td>
+<td>46869</td>
+<td>economiaynegocios.cl</td>
+</tr>
+<tr>
+<td>8/19/2018 12:24:32</td>
+<td>aeropuerto El Tepual, de Puerto Montt</td>
+<td>arquitectura</td>
+<td>25372</td>
+<td>latercera.cl</td>
+</tr>
+<tr>
+<td>8/19/2018 12:25:59</td>
+<td>Hospital de Antofagasta</td>
+<td>arquitectura</td>
+<td>180279</td>
+<td>latercera.cl</td>
+</tr>
+<tr>
+<td>8/19/2018 12:26:38</td>
+<td>autopista urbana Américo Vespucio Oriente (AVO) 9.1km</td>
+<td>carretera</td>
+<td>614284</td>
+<td>latercera.cl</td>
+</tr>
