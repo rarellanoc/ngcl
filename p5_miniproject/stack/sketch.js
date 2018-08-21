@@ -4,6 +4,8 @@ var espacio;
 
 var esp = 55;
 
+var fonts_load = ['Georgia', 'Times', 'serif', 'Palatino', 'Times new roman', 'Garamond', 'Bookman']
+
 var nombre = [, 'Segunda Concesión Ruta 66',
 'Ruta 5 Tramo \nLos Vilos-La Serena', 
 'Ruta G21, de acceso \na Farellones ',
@@ -73,7 +75,7 @@ function setup() {
   cnv = createCanvas(320, 2000);
   cnv.parent('centrado');
 
-  background(249, 254, 255);
+  //background(249, 254, 255);
 
   noStroke();
 
@@ -90,7 +92,7 @@ function setup() {
 
   		rot[i]= ( random() * 4 )- 2
 
-  		rand_font[i] = int(random(3));
+  		rand_font[i] = int(random(fonts_load.length));
 
       reveal[i] = 0;
 
@@ -107,7 +109,7 @@ function draw() {
      translate(-50, 0);
 
    
-   background(249, 254, 255);
+   background(254, 254, 255);
 
 
 if (spa >0 ) {
@@ -181,7 +183,7 @@ if (reveal[i] < 255) {
 
 }
 
-  	fill(255, 254 - int(col2[i]) * 6, 249 - int(col3[i]) * 9, reveal[i]);
+  	fill(255- int(col2[i]) * 8, 254 - int(col2[i]) * 10, 249 - int(col3[i]) * 13, reveal[i]);
 
  
 
@@ -227,7 +229,7 @@ if (reveal[i] < 255) {
   	
 
 
-  	fonts_load = ['Georgia', 'Times', 'serif', 'Palatino']
+  	
 
   	
 
@@ -238,7 +240,6 @@ if (reveal[i] < 255) {
 
 
   	textSize(24 - rand_font[i]);
-
 
 
 
